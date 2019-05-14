@@ -1,7 +1,7 @@
 {
     "name": "sportsstore",
     "description": "SportsStore",
-    "repository": "https://github.com/Apress/pro-react-16",
+    "repository": "https://github.com/Peter-Li1233/sportsstore.git",
     "license": "0BSD",
 
     "devDependencies": {
